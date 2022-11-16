@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naxanth-t
+- 👋 Hi, I’m Navaneeth T
 - 👀 I’m interested in 3D Modelling, UI/UX Designing, Web Application and Multimedia
 - 🎓 I’m currently pursuing B.Tech Artificial Intelligence and Data Science
 - 🌱 Eagerly learning UI/UX design
